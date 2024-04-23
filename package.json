@@ -21,7 +21,7 @@
     "express-rate-limit": "5.0.0",
     "express-session": "1.16.2",
     "font-awesome": "4.7.0",
-    "formidable": "1.2.1",
+    "formidable": "3.2.4",
     "git-rev": "0.2.1",
     "github": "git://github.com/octokit/rest.js.git#29dedb3",
     "highlight.js": "9.15.10",
